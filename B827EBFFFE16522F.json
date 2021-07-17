@@ -1,0 +1,18 @@
+{
+"gateway_conf": {
+"gateway_ID": "B827EBFFFE16522F",
+"servers": [
+{
+"server_address": "router.eu.thethings.network",
+"serv_port_up": 1700,
+"serv_port_down": 1700,
+"serv_enabled": true
+}
+],
+"ref_latitude": 52.29596,
+"ref_longitude": 5.97271,
+"ref_altitude": 9,
+"contact_email": "bs.molen@hccnet.nl”,
+"description": "thisis ic880a + rb3"
+}
+}
